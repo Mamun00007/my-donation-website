@@ -18,6 +18,7 @@
 body{
    font-family: 'Marvel', sans-serif;
 font-family: 'Roboto', sans-serif;
+margin: 0%;
 
 }
 .fontsize{
@@ -90,4 +91,10 @@ font-family: 'Roboto', sans-serif;
    
    height: 30px;
    width: 50px;
+}
+.footer{
+   color: aliceblue;
+   background-color: rgb(56, 54, 54);
+   height: 120px;
+   padding-top: 10px;
 }
