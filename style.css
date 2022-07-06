@@ -1,4 +1,4 @@
-.bimage{
+.header{
    background-image: url("images/donation13.jpg");
    text-align: center;
    color: aliceblue;
@@ -35,12 +35,17 @@ margin: 0%;
    text-align: center;
 }
 .tflexbox1{
-   background-color: antiquewhite;
+   background-color: rgb(236, 116, 47);
    border-color: 4px solid black;
    margin: 20px;
    width: 100px;
-   height: 100px;
+   height: 70px;
    text-align: center;
+   border-radius: 5px;
+   font-size: 22px;
+   font-style: inherit;
+   color: white;
+   padding-top: 50px;
    
 
 
@@ -49,6 +54,7 @@ margin: 0%;
    display: flex;
    text-align: center;
    justify-content: center;
+   align-items: center;
 }
 .tflexbox3{
    display: flex;
@@ -94,7 +100,10 @@ margin: 0%;
 }
 .footer{
    color: aliceblue;
-   background-color: rgb(56, 54, 54);
+   background-color: rgb(22, 22, 22);
    height: 120px;
    padding-top: 10px;
+}
+.input3{
+   width: 300px;
 }
