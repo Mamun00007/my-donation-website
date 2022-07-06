@@ -1,0 +1,55 @@
+.bimage{
+   background-image: url("images/donation13.jpg");
+   text-align: center;
+   color: aliceblue;
+   background-repeat: no-repeat;
+   background-size: 1440px 600px;
+   height: 500px;
+   align-items: center;
+   font-size: large;
+   text-align: center;
+   padding-top: 40px;
+   margin: 0%;
+   
+   
+   
+   
+}
+body{
+   font-family: 'Marvel', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+.fontsize{
+   font-size: 50px;
+}
+.button{
+   color: rgb(253, 253, 250);
+   text-decoration: none;
+   background-color: rgb(233, 84, 84);
+   padding: 12px 10px;
+   border-radius: 8px;
+}
+.container2{
+   text-align: center;
+}
+.tflexbox1{
+   background-color: antiquewhite;
+   border-color: 4px solid black;
+   margin: 20px;
+   width: 100px;
+   height: 100px;
+   text-align: center;
+   
+
+
+}
+.tflexbox2{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+   
+   
+   
+   
+}
