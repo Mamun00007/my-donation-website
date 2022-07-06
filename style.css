@@ -48,8 +48,35 @@ font-family: 'Roboto', sans-serif;
    display: flex;
    text-align: center;
    justify-content: center;
+}
+.tflexbox3{
+   display: flex;
+   padding: 10px;
+   margin: 10px;
+}
+.flexbox01{
+   background-color: aqua;
+   text-align: left;
+   padding: 10px 10px 20px 20px;
+   width: 600px;
+   height: 200px;
+   margin: 4%;
    
-   
-   
-   
+}
+.color2{
+   background-color: burlywood;
+}
+.color3{
+   background-color: coral;
+}
+.flex1{
+   display: flex;
+   height: 50%;
+}
+.flex01{
+   width: 50%;
+   padding-left: 10%;
+}
+.flex01 img{
+   width: 70%;
 }
