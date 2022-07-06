@@ -1,13 +1,13 @@
 .header{
-   background-image: url("images/donation13.jpg");
+   background-image: url("./images/donation13.jpg");
    text-align: center;
-   color: aliceblue;
+   color: rgb(229, 236, 243);
    background-repeat: no-repeat;
    background-size: 1440px 600px;
    height: 500px;
    align-items: center;
    font-size: large;
-   text-align: center;
+   text-align: center;  
    padding-top: 40px;
    margin: 0%;
    
@@ -39,7 +39,7 @@ margin: 0%;
    border-color: 4px solid black;
    margin: 20px;
    width: 100px;
-   height: 70px;
+   height: 100px;
    text-align: center;
    border-radius: 5px;
    font-size: 22px;
@@ -53,8 +53,8 @@ margin: 0%;
 .tflexbox2{
    display: flex;
    text-align: center;
-   justify-content: center;
-   align-items: center;
+   width: 100%;
+   height: auto;
 }
 .tflexbox3{
    display: flex;
